@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//this is my first code
 int main() {
    int w;
     cin >> w;
